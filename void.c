@@ -7,7 +7,6 @@ double half(int);
 void print(int); 
 
 int main(int argc, char *argv[]) {
-	
 	int num;
 	
 	printf("정수를 하나 입력하세요 : ");
